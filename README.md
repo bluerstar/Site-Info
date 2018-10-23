@@ -13,3 +13,4 @@
 ###### https://github.com/apache
 ###### https://yq.aliyun.com/opensource
 ###### https://github.com/aliyun
+###### 百度开源：https://www.oschina.net/project/baidu
