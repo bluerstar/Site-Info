@@ -1,4 +1,4 @@
-### some superior learning learning
+### some superior learning Contributor
 ###### https://github.com/meituan-dianping
 ###### https://github.com/dianping
 ###### https://github.com/meituan
