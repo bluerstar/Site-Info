@@ -5,3 +5,7 @@
 ###### http://tech.meituan.com
 ###### https://github.com/xuxueli/xxl-job/
 ###### https://gitee.com/xuxueli0323/xxl-job
+###### https://github.com/alibaba
+###### https://github.com/taobaofed
+###### https://github.com/aliyun
+###### http://alibaba.github.io/
