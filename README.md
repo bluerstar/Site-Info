@@ -14,3 +14,4 @@
 ###### https://yq.aliyun.com/opensource
 ###### https://github.com/aliyun
 ###### 百度开源：https://www.oschina.net/project/baidu
+###### 大厂开源框架：https://www.cnblogs.com/dunitian/p/5581520.html
