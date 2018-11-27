@@ -1,5 +1,8 @@
 1. JDK5:
     泛型(Generics)
+    List<String> userNames = new ArrayList<String>();
+    String userName = userNames.get(0);
+    
     增强for循环
     自动拆装箱（Autoboxing/unboxing）
     类型安全的枚举（Typesafeenums）
