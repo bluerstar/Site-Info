@@ -2,11 +2,8 @@
 ######    泛型(Generics)
     List<String> userNames = new ArrayList<String>();
     String userName = userNames.get(0);
-    
     类型统配符？代替具体的实参。List<?> 是List<String>和List<Integer>的父类
-    
-    类型通配符上限通过形如Box<? extends Number>形式定义，相对应的，类型通配符下限为Box<? super Number>形式，其含义与类型通配符上限正好相反
-    
+    类型通配符上限通过形如Box<? extends Number>形式定义，类型通配符下限为Box<? super Number>形式
     Java中没有所谓的泛型数组一说
     
 ######    增强for循环
