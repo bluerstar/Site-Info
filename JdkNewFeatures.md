@@ -48,11 +48,18 @@
         Enum[] values(): 获得所有枚举对象的数组。    
             
 ######    静态导入（static import）
+    可以在代码中，直接使用静态导入方式，导入静态方法或者常量
+    静态导入的格式import static 报名.类名.静态成员，静态导入可以作用一个类的所有静态成员
+    注意：当在自定义的类中也出现了静态同名的方法，会优先调用本地方法
+    
 ######    元数据（metadata）
+
 ######    线程池
     
 ### 2. JDK6:
 ######    Desktop类和SystemTray类
+--    AWT新增加了两个类:Desktop和SystemTray
+    
 ######    使用JAXB2来实现对象与XML之间的映射
 ######    StAX
 ######    使用Compiler API
