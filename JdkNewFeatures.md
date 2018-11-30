@@ -8,7 +8,16 @@
     ps:http://www.cnblogs.com/lwbqqyumidi/p/3837629.html
     
 ######    增强for循环
+    引入增强for循环的原因：替代Iterator
+    for/in语句的适用范围：
+        遍历数组
+        遍历实现Iterable接口的集合类
+    增强for循环底层实现也是迭代器，可以通过class文件查看
+
+######    可变参数    
+    
 ######    自动拆装箱（Autoboxing/unboxing）
+
 ######    类型安全的枚举（Typesafeenums）
         枚举类案例：
         有参构造方法枚举类型
