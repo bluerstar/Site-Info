@@ -5,6 +5,7 @@
     类型统配符？代替具体的实参。List<?> 是List<String>和List<Integer>的父类
     类型通配符上限通过形如Box<? extends Number>形式定义，类型通配符下限为Box<? super Number>形式
     Java中没有所谓的泛型数组一说
+    ps:http://www.cnblogs.com/lwbqqyumidi/p/3837629.html
     
 ######    增强for循环
 ######    自动拆装箱（Autoboxing/unboxing）
