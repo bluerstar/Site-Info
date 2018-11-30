@@ -10,6 +10,21 @@
 ######    增强for循环
 ######    自动拆装箱（Autoboxing/unboxing）
 ######    类型安全的枚举（Typesafeenums）
+        枚举类案例：
+        有参构造方法枚举类型
+            需要在每个实例上都写上参数：Week(String s) {}   →   Sunday("")
+        带有抽象方法的枚举类型举例
+            在枚举的每个实例中都要重写这个抽象方法。
+            
+        枚举API
+            String name(): 返回枚举的名称。
+            int ordinal(): 返回枚举的下标，下标从0开始。
+            static Enum valueOf(Class enumType, String name): 返回枚举的对象。 
+
+        自定义的枚举类，在编译阶段自动生成两个方法：
+        Enum valueof(String name): 获取枚举对象。
+        Enum[] values(): 获得所有枚举对象的数组。    
+            
 ######    静态导入（static import）
 ######    元数据（metadata）
 ######    线程池
